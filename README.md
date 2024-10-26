@@ -1,124 +1,119 @@
-# ggittasseruwagi.github.io
-
-# Hi there, I'm Ggitta Sseruwagi 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Linux+Enthusiast;AI+%26+Blockchain+Explorer;Digital+Marketing+Specialist;Community+Impact+Creator" alt="Typing SVG" />
+  
+  # ⚡️ Welcome to My Digital Garden 🌱
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3AADC9&center=true&vCenter=true&width=435&lines=Software+Developer;Linux+Explorer;AI+%26+Blockchain+Enthusiast;Digital+Marketing+Specialist)](https://git.io/typing-svg)
+
 </div>
 
-## 🚀 Tech Journey
+```ascii
+                      +------------------------+
+                      |   Building the Future  |
+                      |  One Commit at a Time  |
+                      +------------------------+
+                               |
+                   +-----------=-----------+
+                   |                       |
+              Technology               Community
+                   |                       |
+          +----------------+      +----------------+
+          |  Code & Linux  |      |  AI Solutions  |
+          +----------------+      +----------------+
+```
+
+## 🎓 Educational Journey
 
 ```mermaid
-timeline
-    title My Tech Evolution
-    2021 : Began Linux Journey with Ubuntu
-    2023 : Transitioned to Fedora
-         : HubSpot CRM Certification
-         : AI Community Projects
-    2024 : Expanding into Blockchain & Digital Marketing
+journey
+    title My Learning Path
+    section Primary
+        Bright Grammar Primary School (Nyendo Masaka): 5: Me
+    section Secondary
+        St. Henry's College Kitovu (S1-S3): 4: Me
+        Lubiri High School (S4): 4: Me
+        St Joseph of Nazareth High School: 5: Me
+    section University
+        Vaal University of Technology: 5: Me, Future
 ```
 
-## 🎓 Education & Certifications
+## 💫 Tech Cosmos
 
-**Vaal University of Technology**
-- 💻 Development Software & Programming Logic
-- 🌐 Information Systems & Networking
-- 💡 Entrepreneurship & Communication Skills
-
-**Professional Certifications**
-- 🎯 HubSpot CRM Certified
-- 📱 Social Media Marketing Specialist
-- 🤖 AI Implementation Specialist
-
-## 🛠️ Tech Stack & Skills
+<div align="center">
 
 ```python
-class TechEnthusiast:
-    def __init__(self):
-        self.operating_systems = {
-            "linux": ["Fedora (Current)", "Ubuntu (2+ years)"],
-            "command_line": "Advanced User"
-        }
-        
-        self.digital_marketing = {
-            "platforms": ["LinkedIn", "Instagram", "Facebook", "X"],
-            "tools": ["HubSpot CRM", "Social Media Analytics"],
-            "skills": ["Market Research", "Campaign Management"]
-        }
-        
-        self.blockchain = {
-            "interests": ["Cryptocurrency", "African Financial Markets"],
-            "expertise": ["Cross-border Transactions", "Market Analysis"]
-        }
-        
-        self.ai_ml = {
-            "focus": "Community Impact Solutions",
-            "projects": ["Local AI Implementation", "Social Impact Analysis"]
-        }
+class TechExplorer:
+    current_os = "Fedora Linux 🐧"
+    previous_os = "Ubuntu (2021-2023) 🚀"
+    passions = ["Open Source", "AI", "Blockchain"]
+    
+    def daily_routine(self):
+        return [
+            "Solve Complex Problems 🧩",
+            "Explore New Technologies 🔍",
+            "Build Community Solutions 🌍",
+            "Analyze Crypto Markets 📊"
+        ]
 ```
 
-## 🌍 Impact Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AI-Community_Solutions-blue?style=for-the-badge&logo=artificial-intelligence" alt="AI Projects"/>
-        <br />
-        "Improving Lives Through AI"
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Crypto-African_Markets-gold?style=for-the-badge&logo=bitcoin" alt="Crypto Projects"/>
-        <br />
-        "Financial Inclusion Solutions"
-      </td>
-    </tr>
-  </table>
 </div>
 
-## 📊 GitHub Analytics
+## 🛠 Skills Universe
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak" />
+
+|  Development   |   Digital Marketing   |    Blockchain & AI    |
+|:--------------:|:--------------------:|:--------------------:|
+| Visual Basic 💻 | HubSpot CRM 🎯       | Market Analysis 📈    |
+| Linux Systems 🐧 | Social Research 🔍    | AI Solutions 🤖      |
+| Networking 🌐   | Campaign Strategy 📱  | Crypto Trading 💹    |
+| Terminal CLI ⌨️  | Content Creation ✍️   | Community Impact 🌍  |
+
 </div>
 
-## 🌱 Current Focus
+## 🌊 Current Wave
 
-- 🐧 Advanced Linux system administration
-- 🤖 AI implementation for social good
-- 📊 Blockchain and cryptocurrency markets
-- 🎯 Digital marketing strategies
-- 👥 Community-driven projects
+```javascript
+const currentFocus = {
+    learning: ["Advanced Linux", "AI Implementation"],
+    building: ["Community Solutions", "Market Analysis Tools"],
+    exploring: ["African Financial Markets", "Digital Marketing"],
+    growing: ["Problem Solving", "Technical Writing"]
+}
+```
 
-## 💡 Featured Projects
-
-<div align="center">
-  <a href="Your-AI-Project-URL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=AI-Community-Impact&theme=tokyonight" />
-  </a>
-  <a href="Your-Crypto-Project-URL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=African-Markets-Analysis&theme=tokyonight" />
-  </a>
-</div>
-
-## 🤝 Let's Collaborate!
+## 📈 GitHub Analytics
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](Your-LinkedIn-URL)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](Your-Twitter-URL)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
-## 📈 Contribution Graph
+## 🌐 Connect & Collaborate
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=tokyonight)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](Your-Twitter)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](Your-GitHub)
+
+</div>
+
+<div align="center">
+
+```ascii
+                    Let's Build Something Amazing Together!
+                                  
+                    🌟 Open for Collaboration and Learning 🌟
+```
+
+</div>
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet" alt="Profile Views" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&column=7" alt="GitHub Trophies" />
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square)
+
 </div>
